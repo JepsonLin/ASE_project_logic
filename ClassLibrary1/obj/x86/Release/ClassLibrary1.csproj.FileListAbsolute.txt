@@ -1,0 +1,17 @@
+c:\users\v-ljianp\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\x86\Release\ClassLibrary1.dll
+c:\users\v-ljianp\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\x86\Release\ClassLibrary1.pdb
+c:\users\v-ljianp\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\x86\Release\ClassLibrary1.pri
+c:\users\v-ljianp\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\x86\Release\getBing.dll
+c:\users\v-ljianp\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\x86\Release\ClassLibrary1.dll
+c:\users\v-ljianp\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\x86\Release\ClassLibrary1.pdb
+c:\users\v-ljianp\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\x86\Release\priconfig.xml
+c:\users\v-ljianp\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\x86\Release\priconfig.xml.intermediate
+c:\users\v-ljianp\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\x86\Release\layout.resfiles
+c:\users\v-ljianp\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\x86\Release\layout.resfiles.intermediate
+c:\users\v-ljianp\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\x86\Release\resources.resfiles
+c:\users\v-ljianp\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\x86\Release\resources.resfiles.intermediate
+c:\users\v-ljianp\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\x86\Release\pri.resfiles
+c:\users\v-ljianp\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\x86\Release\pri.resfiles.intermediate
+c:\users\v-ljianp\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\x86\Release\qualifiers.txt
+c:\users\v-ljianp\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\x86\Release\qualifiers.txt.intermediate
+c:\users\v-ljianp\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt

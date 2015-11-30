@@ -1,0 +1,17 @@
+c:\users\v-ljianp\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\x86\Debug\ClassLibrary1.dll
+c:\users\v-ljianp\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\x86\Debug\ClassLibrary1.pdb
+c:\users\v-ljianp\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\x86\Debug\ClassLibrary1.pri
+c:\users\v-ljianp\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\x86\Debug\getBing.dll
+c:\users\v-ljianp\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\x86\Debug\ClassLibrary1.dll
+c:\users\v-ljianp\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\x86\Debug\ClassLibrary1.pdb
+c:\users\v-ljianp\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\x86\Debug\priconfig.xml
+c:\users\v-ljianp\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\x86\Debug\priconfig.xml.intermediate
+c:\users\v-ljianp\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\x86\Debug\layout.resfiles
+c:\users\v-ljianp\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\x86\Debug\layout.resfiles.intermediate
+c:\users\v-ljianp\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\x86\Debug\resources.resfiles
+c:\users\v-ljianp\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\x86\Debug\resources.resfiles.intermediate
+c:\users\v-ljianp\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\x86\Debug\pri.resfiles
+c:\users\v-ljianp\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\x86\Debug\pri.resfiles.intermediate
+c:\users\v-ljianp\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\x86\Debug\qualifiers.txt
+c:\users\v-ljianp\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\x86\Debug\qualifiers.txt.intermediate
+c:\users\v-ljianp\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
