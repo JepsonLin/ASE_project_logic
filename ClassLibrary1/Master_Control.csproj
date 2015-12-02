@@ -118,19 +118,18 @@
   <ItemGroup>
     <Reference Include="DataBasedll, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\DataBasedll\DataBasedll\bin\x86\Debug\DataBasedll.dll</HintPath>
+      <HintPath>3rdparty\DataBasedll.dll</HintPath>
     </Reference>
     <Reference Include="getBing, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>3rdparty\getBing.dll</HintPath>
     </Reference>
-    <Reference Include="SQLitePCL.Ext, Version=3.8.7.2, Culture=neutral, PublicKeyToken=bddade01e9c850c5, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\DataBasedll\DataBasedll\bin\x86\Debug\SQLitePCL.Ext.dll</HintPath>
+    <Reference Include="SQLitePCL.Ext">
+      <HintPath>3rdparty\SQLitePCL.Ext.dll</HintPath>
     </Reference>
-    <Reference Include="wakeupUI, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+    <Reference Include="UI, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\getUI\wakeupUI\bin\x86\Debug\wakeupUI.dll</HintPath>
+      <HintPath>3rdparty\UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
